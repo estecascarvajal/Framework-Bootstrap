@@ -1,0 +1,44 @@
+.container{
+    background-color: #118d25; 
+}
+
+#texto{
+   position: relative;
+   left: 270px;
+   top: -290px;
+  }
+#pre{
+    position: relative;
+    left: 270px;
+    top: -285px;
+}
+
+#pre2{
+    position: relative;
+    left: 270px;
+    top: -280px;
+}
+#rin {
+    position: relative;
+    left: 270px;
+    top: -275px;
+}
+#colo {
+    position: relative;
+    left: 270px;
+    top: -270px;
+}
+#ti {
+    position: relative;
+    left: 270px;
+    top: -265px;
+}
+
+#pi {
+    position: relative;
+    left: 270px;
+    top: -260px;
+}
+#text{
+    right:200px;
+}

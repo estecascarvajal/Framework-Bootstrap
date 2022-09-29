@@ -8,4 +8,4 @@
 * *Maqueta 4 con 3 diferentes diseños al responsive de computador, tablet y movil.*
 * *Maqueta 5, tema libre, se uso 6 imagenes diferentes para 2 diseños en las medidas de lg y md.*
 #### 2. Pagina web personalizada 
-* *Maqueta 6, pagina responsive con diseño personalizado con uso de card en promision de ciertos productos.*
+* *Maqueta 6, pagina responsive con diseño personalizado con uso de cards en promision de ciertos productos.*

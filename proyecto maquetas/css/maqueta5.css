@@ -1,5 +1,6 @@
 .container {
     background-color:greenyellow;
+    width: 100%;
 }
 
 #col1 {
@@ -20,4 +21,7 @@
     background-color: rgb(15, 211, 201);
     border: 5px solid black;
 
+}
+h4{
+text-align: justify;
 }
